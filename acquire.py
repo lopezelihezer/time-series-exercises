@@ -8,3 +8,4 @@ def gather_info(url):
     print(response.text)
     return data = response.json()
 
+**********
